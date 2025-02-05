@@ -1,8 +1,8 @@
 import requests
 
 # Public GitHub repository (change if needed)
-REPO_OWNER = "torvalds"
-REPO_NAME = "linux"
+REPO_OWNER = "RuhulAminDSi"
+REPO_NAME = "DevOps"
 
 # GitHub API URL
 API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/commits"
