@@ -1,6 +1,6 @@
 import requests
 
-# Public GitHub repository (change if needed)
+# Public GitHub repository
 REPO_OWNER = "RuhulAminDSi"
 REPO_NAME = "DevOps"
 
